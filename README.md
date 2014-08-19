@@ -1,7 +1,7 @@
-QA
-==
+Q & A
+=====
 
-This is a **Q**uestion & **A**nswer repo for algorithm and logic study, for experimentations with programming languages and so on.
+This is a Question & Answer repo for algorithm and logic study, for experimentations with programming languages and so on.
 
 License
 -------
